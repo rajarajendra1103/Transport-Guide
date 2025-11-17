@@ -1,0 +1,7 @@
+{
+  "name": "Transport Guide",
+  "description": "A modern web application to help you navigate public transport in any city. Find bus and train routes, view details, and get directions on a map.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
